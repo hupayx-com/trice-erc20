@@ -6,7 +6,7 @@
 
 
 ## abi
-[abi.json](abi.jsoin)
+[abi.json](https://raw.githubusercontent.com/hupayx-com/trice-erc20/main/abi.json)
 
 ## bytecode
-[bytecode.json](bytecode.json)
+[bytecode.json](https://raw.githubusercontent.com/hupayx-com/trice-erc20/main/bytecode.json)
